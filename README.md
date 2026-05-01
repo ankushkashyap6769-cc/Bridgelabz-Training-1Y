@@ -26,6 +26,7 @@ It is organized topic-wise to reflect my progression from basic programming to a
 - Collections & Generics
 - Stream API
 - Practice Problems
+- Regular Expressions
 - JDBC
 
 ---
@@ -48,7 +49,8 @@ It is organized topic-wise to reflect my progression from basic programming to a
 14-Wrapper-Classes
 15-Collections-Generics
 16-Stream-API
-17-JDBC
+17-Regular-Expressions
+18-JDBC
 
 Each folder contains Java programs related to that specific topic.
 
@@ -58,6 +60,7 @@ Each folder contains Java programs related to that specific topic.
 
 - Java
 - Git & GitHub
+- MySQL
 
 ---
 
